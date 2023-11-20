@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\Labs\Algorithms\SQRT\SQRT\bin\Debug\SQRT.exe.config
+C:\Users\Lenovo\Desktop\Labs\Algorithms\SQRT\SQRT\bin\Debug\SQRT.exe
+C:\Users\Lenovo\Desktop\Labs\Algorithms\SQRT\SQRT\bin\Debug\SQRT.pdb
+C:\Users\Lenovo\Desktop\Labs\Algorithms\SQRT\SQRT\obj\Debug\SQRT.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Labs\Algorithms\SQRT\SQRT\obj\Debug\SQRT.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Labs\Algorithms\SQRT\SQRT\obj\Debug\SQRT.exe
+C:\Users\Lenovo\Desktop\Labs\Algorithms\SQRT\SQRT\obj\Debug\SQRT.pdb

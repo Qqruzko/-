@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\Labs\Algorithms\SQRT\Loop demo\bin\Debug\Loop demo.exe.config
+C:\Users\Lenovo\Desktop\Labs\Algorithms\SQRT\Loop demo\bin\Debug\Loop demo.exe
+C:\Users\Lenovo\Desktop\Labs\Algorithms\SQRT\Loop demo\bin\Debug\Loop demo.pdb
+C:\Users\Lenovo\Desktop\Labs\Algorithms\SQRT\Loop demo\obj\Debug\Loop demo.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Labs\Algorithms\SQRT\Loop demo\obj\Debug\Loop demo.exe
+C:\Users\Lenovo\Desktop\Labs\Algorithms\SQRT\Loop demo\obj\Debug\Loop demo.pdb
+C:\Users\Lenovo\Desktop\Labs\Algorithms\SQRT\Loop demo\obj\Debug\Loop demo.csproj.AssemblyReference.cache
